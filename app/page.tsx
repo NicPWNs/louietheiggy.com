@@ -1,5 +1,11 @@
 import Image from "next/image";
-import { siInstagram, siTiktok, siYoutube } from "simple-icons";
+import {
+  siInstagram,
+  siTiktok,
+  siYoutube,
+  siFacebook,
+  siGmail,
+} from "simple-icons";
 
 export default function Home() {
   return (
@@ -73,6 +79,40 @@ export default function Home() {
               <path d={siYoutube.path} />
             </svg>
             <span>YouTube</span>
+          </a>
+          <a
+            href="https://www.instagram.com/louie.the.ig"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-center space-x-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white py-3 rounded-lg hover:opacity-90 transition-opacity"
+          >
+            <svg
+              role="img"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-6 h-6 fill-current"
+            >
+              <title>Facebook</title>
+              <path d={siFacebook.path} />
+            </svg>
+            <span>Facebook</span>
+          </a>
+          <a
+            href="https://www.instagram.com/louie.the.ig"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-center space-x-2 bg-gradient-to-r from-green-700 to-green-600 text-white py-3 rounded-lg hover:opacity-90 transition-opacity"
+          >
+            <svg
+              role="img"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-6 h-6 fill-current"
+            >
+              <title>Email</title>
+              <path d={siGmail.path} />
+            </svg>
+            <span>Email</span>
           </a>
         </div>
       </div>
