@@ -21,7 +21,7 @@
     "react-dom": "^18",
     "react-draggable": "^4.4.6",
     "simple-icons": "^14.0.1",
-    "sst": "3.1.49"
+    "sst": "3.4.53"
   },
   "devDependencies": {
     "@types/node": "^20",
