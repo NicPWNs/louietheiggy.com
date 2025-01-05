@@ -123,8 +123,8 @@ export default function Home() {
         <Image
           src="/louie-logo.svg"
           alt="Louie's Logo"
-          width={50}
-          height={50}
+          width={35}
+          height={35}
           className="text-gray-800 dark:text-white"
         />
       </div>
