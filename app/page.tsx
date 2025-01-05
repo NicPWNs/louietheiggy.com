@@ -128,7 +128,7 @@ export default function Home() {
           xmlns="http://www.w3.org/2000/svg"
           className="text-white"
         >
-          <use href="/louie-logo.svg" />
+          <use href="/louie-logo.svg#logo" />
         </svg>
       </div>
     </div>
