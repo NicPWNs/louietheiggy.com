@@ -22,7 +22,7 @@ export default function Home() {
           <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-100">
             Louie the Iggy
           </h1>
-          <p className="text-md text-gray-600 dark:text-gray-400">
+          <p className="text-lg text-gray-600 dark:text-gray-400">
             @louie.the.ig
           </p>
           <p className="text-gray-600 dark:text-gray-300 text-center">
@@ -119,7 +119,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-      <div className="mt-8">
+      <div className="mt-8 text-white">
         <Image
           src="/louie-logo.svg"
           alt="Louie's Logo"
