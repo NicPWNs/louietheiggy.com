@@ -119,13 +119,17 @@ export default function Home() {
           </a>
         </div>
       </div>
-      <div className="mt-8 text-white">
-        <Image
-          src="/louie-logo.svg"
-          alt="Louie's Logo"
-          width={50}
-          height={50}
-        />
+      <div className="mt-8">
+        <svg
+          width="50"
+          height="50"
+          viewBox="0 0 50 50"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          className="text-white"
+        >
+          <use href="/louie-logo.svg" />
+        </svg>
       </div>
     </div>
   );
