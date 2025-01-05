@@ -112,10 +112,10 @@ export default function Home() {
               xmlns="http://www.w3.org/2000/svg"
               className="w-6 h-6 fill-current"
             >
-              <title>Email</title>
+              <title>Contact</title>
               <path d={siGmail.path} />
             </svg>
-            <span>Email</span>
+            <span>Contact</span>
           </a>
         </div>
       </div>
