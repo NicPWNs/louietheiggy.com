@@ -22,6 +22,9 @@ export default function Home() {
           <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-100">
             Louie the Iggy
           </h1>
+          <p className="text-md text-gray-600 dark:text-gray-400">
+            @louie.the.ig
+          </p>
           <p className="text-gray-600 dark:text-gray-300 text-center">
             Zoomies enthusiast, professional napper, and treat connoisseur.
             Follow my adventures!
@@ -115,6 +118,14 @@ export default function Home() {
             <span>Email</span>
           </a>
         </div>
+      </div>
+      <div className="mt-8">
+        <Image
+          src="/louie-logo.svg"
+          alt="Louie's Logo"
+          width={50}
+          height={50}
+        />
       </div>
     </div>
   );
