@@ -124,11 +124,11 @@ export default function Home() {
           width="50"
           height="50"
           viewBox="0 0 50 50"
-          fill="none"
+          fill="currentColor"
           xmlns="http://www.w3.org/2000/svg"
           className="text-white"
         >
-          <use href="/louie-logo.svg#logo" />
+          <use href="/louie-logo.svg" />
         </svg>
       </div>
     </div>
