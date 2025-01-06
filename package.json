@@ -13,7 +13,7 @@
     "react": "^18",
     "react-dom": "^18",
     "simple-icons": "^14.0.1",
-    "sst": "3.4.53"
+    "sst": "3.4.54"
   },
   "devDependencies": {
     "@types/node": "^22",
