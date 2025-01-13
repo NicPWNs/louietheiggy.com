@@ -101,7 +101,7 @@ export default function Home() {
             <span>Facebook</span>
           </a>
           <a
-            href="https://www.instagram.com/louie.the.ig"
+            href="mailto:contact@louietheiggy.com"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center space-x-2 bg-gradient-to-r from-green-700 to-green-600 text-white py-3 rounded-lg hover:opacity-90 transition-opacity"
