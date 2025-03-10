@@ -11,7 +11,7 @@
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.3",
     "autoprefixer": "^10.4.20",
-    "next": "15.1.4",
+    "next": "15.2.1",
     "react": "^18",
     "react-dom": "^19",
     "simple-icons": "^14.4.0",
