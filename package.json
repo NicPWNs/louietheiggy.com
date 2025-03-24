@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.0.3",
+    "@tailwindcss/postcss": "^4.0.15",
     "autoprefixer": "^10.4.20",
     "next": "15.2.3",
     "react": "^18",
