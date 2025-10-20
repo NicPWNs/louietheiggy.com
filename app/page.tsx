@@ -67,7 +67,7 @@ export default function Home() {
             <span>TikTok</span>
           </a>
           <a
-            href="https://www.youtube.com/@louie.the.ig"
+            href="https://www.youtube.com/@louietheiggy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center space-x-2 bg-gradient-to-r from-red-500 to-red-600 text-white py-3 rounded-lg hover:opacity-90 transition-opacity"
