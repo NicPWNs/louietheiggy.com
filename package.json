@@ -12,14 +12,14 @@
     "@tailwindcss/postcss": "^4.1.18",
     "autoprefixer": "^10.4.20",
     "next": "16.0.10",
-    "react": "^18",
+    "react": "^19",
     "react-dom": "^19",
     "simple-icons": "^14.4.0",
     "sst": "3.17.25"
   },
   "devDependencies": {
     "@types/node": "^22",
-    "@types/react": "^18",
+    "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
